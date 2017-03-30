@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
   "parameters": {
     "omsRecoveryServicesVaultName": {
-      "value": "ahdemoomsvault1"
+      "value": "ol1Vault1"
     },
     "omsAutomationAccountName": {
-      "value": "ahdemoomsautosvc1"
+        "value": "oldemoomsautosvc1"
     },
     "omsAutomationAccountLocation": {
       "value": "West Europe"
     },
     "azureServiceAccountUserName": {
-      "value": "smbsvc@ITRM379349.onmicrosoft.com"
+      "value": "olsvc@oyvindlundbergseritoa.onmicrosoft.com"
     },
     "azureServiceAccountPassword": {
-      "value": "Abc-12345"
+        "value": "ChangeMEEEE!!!!!!"
     },
     "keyVaultName": {
-      "value": "KeyVaultSMB"
+        "value": "ol1demovault"
     },
     "objectId": {
-      "value": "1d7e562d-65b7-415f-b22f-cb92409433a2"
+        "value": "9f932f7c-8783-4f6b-86a5-0207e88617c6"
     }
   }
 }

@@ -3,34 +3,34 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adVmName": {
-      "value": "ahdemodc1"
+      "value": "ol1dc1"
     },
     "adVmSize": {
       "value": "Standard_A2_v2"
     },
     "domainName": {
-      "value": "ahdemosmb.no"
+      "value": "ol1smb.no"
     },
     "domainUsername": {
-      "value": "ahadmin"
+      "value": "ol1admin"
     },
     "domainPassword": {
-      "value": "Passw0rd99"
+        "value": "ChangeME"
     },
     "rdsVmName": {
-      "value": "ahdemords"
+      "value": "ol1rds"
     },
     "rdsVmSize": {
-      "value": "Standard_DS2_v2"
+        "value": "Standard_DS2"
     },
     "rdsDnsPrefix": {
-      "value": "ahdemords1234"
+      "value": "ol1demords"
     },
     "appVmName": {
-      "value": "ahdemoapp1"
+      "value": "ol1app1"
     },
     "appDnsPrefix": {
-      "value": "ahdemoapppub1234"
+      "value": "ol1demoapppub"
     },
     "appVmSize": {
       "value": "Standard_A2_v2"
@@ -39,7 +39,7 @@
       "value": "localadmin"
     },
     "localAdminPassword": {
-      "value": "Passw0rd99"
+      "value": "ChangeME"
     }
   }
 }
